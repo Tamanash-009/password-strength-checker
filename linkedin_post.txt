@@ -1,0 +1,16 @@
+🚀 Excited to share my latest project: PassCheck - A Modern Password Strength Checker! 🚀
+
+In today's digital age, password security is more crucial than ever. I decided to build a secure, real-time password strength checker that not only evaluates your passwords but actually teaches you how to create better ones.
+
+Key Features:
+🛡️ Real-time Analysis: Built using Dropbox's powerful `zxcvbn` library for accurate strength estimation and offline crack time predictions.
+🔍 Breach Detection: Integrates the HaveIBeenPwned API using a secure SHA-1 k-Anonymity model, ensuring your actual password never leaves your browser.
+🔑 Passphrase Generator: Move away from complex symbols and towards easily memorable, high-entropy 4-word passphrases!
+📱 Progressive Web App (PWA): Fully installable on Android and Desktop for a seamless, app-like experience.
+🌙 Modern UI: Built with React, Tailwind CSS, and a sleek Dark/Light mode toggle for maximum accessibility.
+
+Building this taught me a lot about client-side cryptography and the importance of privacy-first API integrations. All calculations happen entirely on your device—zero server storage!
+
+Check out the source code on GitHub (link in comments) and let me know your thoughts! 👇
+
+#ReactJS #TailwindCSS #WebDevelopment #CyberSecurity #PWA #Frontend #OpenSource #JavaScript
