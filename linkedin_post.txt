@@ -11,6 +11,8 @@ Key Features:
 
 Building this taught me a lot about client-side cryptography and the importance of privacy-first API integrations. All calculations happen entirely on your device—zero server storage!
 
-Check out the source code on GitHub (link in comments) and let me know your thoughts! 👇
+Check out the Live App here: https://password-strength-checker-sooty-two.vercel.app
+Source code on GitHub: https://github.com/Tamanash-009/password-strength-checker
+Let me know your thoughts! 👇
 
 #ReactJS #TailwindCSS #WebDevelopment #CyberSecurity #PWA #Frontend #OpenSource #JavaScript

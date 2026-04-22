@@ -3,6 +3,8 @@
 PassCheck is a modern, real-time Password Strength Checker built with React, Vite, and Tailwind CSS. It features secure k-Anonymity HaveIBeenPwned API integration, `zxcvbn` heuristics, and Progressive Web App (PWA) support.
 
 ## Features
+- **Live App**: [https://password-strength-checker-sooty-two.vercel.app](https://password-strength-checker-sooty-two.vercel.app)
+- **GitHub**: [https://github.com/Tamanash-009/password-strength-checker](https://github.com/Tamanash-009/password-strength-checker)
 - **Real-Time Evaluation**: Powered by Dropbox's `zxcvbn` library for accurate strength estimation and offline crack times.
 - **Secure Breach Detection**: Checks the HaveIBeenPwned API using a secure SHA-1 k-Anonymity model (only sends the first 5 characters of the hash).
 - **Smart Suggestions**: Provides actionable feedback to improve password strength (e.g., adding numbers, symbols, avoiding patterns).
